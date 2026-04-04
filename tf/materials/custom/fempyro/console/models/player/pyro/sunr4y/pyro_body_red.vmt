@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+﻿"VertexLitGeneric"
 {
-	"$baseTexture" "console\models\player\pyro/SUNR4Y/pyro_body_blue"
-	"$bumpmap" "console/models/player/pyro/SUNR4Y/pyro_body_normal"
+	"$baseTexture" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_body_red"
+	"$bumpmap" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_body_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"
 	"$detailscale" "5"
 	"$detailblendfactor" "0.0"

@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+﻿"VertexLitGeneric"
 {
-	"$basetexture" "console/models/player/pyro/SUNR4Y/pyro_boots"
-	"$bumpmap" "console/models/player/pyro/SUNR4Y/pyro_boots_normal"
+	"$basetexture" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_gloves"
+	"$bumpmap" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_gloves_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "5"
 	"$detailblendfactor" 0.0

@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+﻿"VertexLitGeneric"
 {
-	"$basetexture" "console/models/player/pyro/SUNR4Y/pyro_arms_blue"
-    "$bumpmap" "console/models/player/pyro/SUNR4Y/pyro_arms_normal"
+	"$basetexture" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_arms_blue"
+    "$bumpmap" "custom/fempyro/console/models/player/pyro/SUNR4Y/pyro_arms_normal"
 
 	"$detailscale" "5"
 	"$detailblendfactor" 0.0

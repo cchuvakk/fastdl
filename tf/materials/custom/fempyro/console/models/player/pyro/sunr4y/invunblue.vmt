@@ -1,12 +1,12 @@
-"VertexLitGeneric"
+﻿"VertexLitGeneric"
 {
-	"$basetexture"	"console/models/player/pyro/SUNR4Y/invunred"
+	"$basetexture"	"custom/fempyro/console/models/player/pyro/SUNR4Y/invunblue"
 	<dx90
 	{
 		 	"$bumpmap" "water/dx80_tfwater001_normal"
 	}
 	"$bumpmap" "water/tfwater001_normal"
-	"$envmap" "effects/invun_red"
+	"$envmap" "effects/cubemapper"
 	"$surfaceprop" "metal"
 	"$halflambert" "1"
 

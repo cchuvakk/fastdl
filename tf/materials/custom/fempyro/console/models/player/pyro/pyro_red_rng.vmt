@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+﻿"VertexLitGeneric"
 {
-	"$basetexture" "console/models/player/pyro/pyro_blue_rng"
-	"$bumpmap" "console/models/player/pyro/pyro_normal"
+	"$basetexture" "custom/fempyro/console/models/player/pyro/pyro_red_rng"
+	"$bumpmap" "custom/fempyro/console/models/player/pyro/pyro_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "5"
 	"$detailblendfactor" 0.0
@@ -22,8 +22,6 @@
 	"$rimlight" "1"												// To enable rim lighting (requires phong)
 	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
 	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
-
-	"360?$color2" "[ 0.75 0.75 0.7 ]"
 
 	"$cloakPassEnabled" "1"
 	"Proxies"
